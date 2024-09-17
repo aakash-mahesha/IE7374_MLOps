@@ -1,1 +1,1 @@
-# IE737_MLOps
+# IE7374_MLOps
